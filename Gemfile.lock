@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    niceql (0.1.25)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  niceql
+
+BUNDLED WITH
+   2.1.2
